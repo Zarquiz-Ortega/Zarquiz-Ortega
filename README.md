@@ -1,32 +1,11 @@
-<!-- 
-  ENCABEZADO PRINCIPAL
-  Este es el banner de bienvenida con un saludo personalizado
-  El <h1> con align="center" centra el título
--->
+<!-- ENCABEZADO PRINCIPAL -->
 <h1 align="center">👋 ¡Hola! Soy Zarquiz Ortega</h1>
 
-<!-- 
-  SUBTÍTULO
-  Una descripción breve y concisa de quién eres
-  El <h3> también centrado para mantener la estética
--->
-<h3 align="center">💻 Desarrollador Full Stack | Vue.js & Laravel Enthusiast</h3>
-
-<!-- 
-  IMAGEN/GIF DE BIENVENIDA (Opcional)
-  Puedes añadir un banner personalizado o un GIF
-  Descomenta la siguiente línea y añade tu imagen
--->
-<!-- <p align="center">
-  <img src="https://tu-enlace-a-imagen.com/banner.gif" alt="Banner" />
-</p> -->
-
+<h3 align="center">💻 Desarrollador Full Stack | Vue.js & Laravel</h3>
 ---
 
 <!-- 
   SECCIÓN "SOBRE MÍ"
-  Aquí describes tu trayectoria profesional
-  Los emojis hacen el contenido más visual y amigable
 -->
 ## 🚀 Sobre mí
 
@@ -40,8 +19,6 @@
 
 <!-- 
   STACK TECNOLÓGICO
-  Aquí mostramos las tecnologías organizadas por categorías
-  Esto facilita la lectura y muestra tu versatilidad
 -->
 ## 🛠️ Stack Tecnológico
 
@@ -70,8 +47,6 @@
 
 <!-- 
   PROYECTOS DESTACADOS
-  Sección para mostrar tus trabajos más importantes
-  Incluye descripciones breves y tecnologías usadas
 -->
 ## 🎯 Proyectos Destacados
 
@@ -87,10 +62,6 @@
 - **Características:** Diseño responsive, showcase de proyectos
 
 <!-- 
-  Si tienes más proyectos públicos, añade los enlaces
-  Descomenta y modifica según tus repositorios
--->
-<!-- 
 ### 🔗 [Ver más proyectos](https://github.com/Zarquiz-Ortega?tab=repositories)
 -->
 
@@ -98,9 +69,6 @@
 
 <!-- 
   ESTADÍSTICAS DE GITHUB
-  Estas tarjetas muestran tus estadísticas automáticamente
-  Se actualizan solas, no necesitas hacer nada
-  Cambia "Zarquiz-Ortega" por tu username si es diferente
 -->
 ## 📊 Estadísticas de GitHub
 
@@ -109,19 +77,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Zarquiz-Ortega&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
   
   <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarquiz-Ortega&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarquiz-Ortega&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" /> -->
 </p>
 
-<!-- Racha de contribuciones (opcional pero motivador) -->
+<!-- Racha de contribuciones -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zarquiz-Ortega&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zarquiz-Ortega&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> -->
 </p>
 
 ---
 
 <!-- 
   ÁREAS DE INTERÉS
-  Muestra en qué te gustaría especializarte o aprender
 -->
 ## 🎓 Aprendizaje Continuo
 
@@ -136,8 +103,6 @@ Siempre buscando expandir mis conocimientos en:
 
 <!-- 
   SECCIÓN DE CONTACTO
-  Aquí van tus redes sociales y formas de contacto
-  Reemplaza los "#" con tus enlaces reales
 -->
 ## 📫 Conecta conmigo
 
@@ -162,16 +127,13 @@ Siempre buscando expandir mis conocimientos en:
 
 <!-- 
   FRASE MOTIVACIONAL O PERSONAL
-  Un toque personal siempre es bueno
-  ¡Aquí va tu chiste! 😄
 -->
 <p align="center">
   <i>"El código es como el humor: cuando tienes que explicarlo, es malo... pero yo siempre comento el mío 😄"</i>
 </p>
 
 <!-- 
-  CONTADOR DE VISITAS (Opcional)
-  Muestra cuántas personas han visto tu perfil
+  CONTADOR DE VISITA
 -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zarquiz-Ortega&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile views" />
@@ -181,7 +143,6 @@ Siempre buscando expandir mis conocimientos en:
 
 <!-- 
   PIE DE PÁGINA
-  Un cierre simple y profesional
 -->
 <p align="center">
   ⭐️ <i>No olvides darle una estrella a los repos que te gusten</i> ⭐️
