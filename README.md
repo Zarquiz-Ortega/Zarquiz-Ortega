@@ -32,7 +32,7 @@
 
 🎓 **Ingeniero en TICs** apasionado por crear soluciones web innovadoras  
 💼 Actualmente trabajando como **Programador Jr** desarrollando aplicaciones SaaS y SPAs  
-🏗️ Especializado en arquitecturas **RESTful APIs** y sistemas de gestión empresarial  
+🏗️ Arquitecturas **RESTful APIs** y sistemas de gestión logistica  
 📦 Creador de **ARKA**, un sistema WMS (Warehouse Management System) en producción  
 🌱 Siempre aprendiendo y explorando nuevas tecnologías para crecer profesionalmente
 
@@ -78,14 +78,13 @@
 ### 📦 ARKA - Warehouse Management System
 > Sistema de gestión de almacenes (WMS) desarrollado profesionalmente y actualmente en producción
 - **Stack:** Vue.js, Laravel 10, MySQL, TailwindCSS
-- **Características:** Control de inventario, gestión de pedidos, dashboard en tiempo real
+- **Características:** Control de inventario, gestión de pedidos, dashboard
 - **Tipo:** SaaS Application
 
 ### 🌐 Portafolio Personal
 > Mi espacio digital donde muestro mi trabajo y habilidades
-- **Stack:** Vue.js, Bootstrap/TailwindCSS
-- **Características:** Diseño responsive, animaciones, showcase de proyectos
-- **Tipo:** SPA (Single Page Application)
+- **Stack:** HTM, CSS
+- **Características:** Diseño responsive, showcase de proyectos
 
 <!-- 
   Si tienes más proyectos públicos, añade los enlaces
